@@ -1,19 +1,17 @@
  # Hi, I’m Jean-Sebastien
-Long name I know, very cool
+I am an amateur software and game developer, currently at university!
 I’m currently learning:
 - HTML
 - C#
 - Unity
+- Laravel
+- PHP
 
-
-C# and HTML are for my university course, and Unity is just for personal fun.
-
-I enjoy coding because I'm a nerd and I have nothing better to do apart from play video games
 
 Socials
-- Discord: shebb#0001
+- Discord: shebb
 - That's it
 
-Contact me if you have any questions or anything
+Contact me if you have any questions!
 
 
