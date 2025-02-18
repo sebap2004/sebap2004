@@ -1,6 +1,6 @@
  # Hi, I’m Jean-Sebastien
  
-I am an amateur software developer, game developer and 3rd year university student
+I am an amateur software developer, game developer and 3rd year university student \
 I’m currently learning / am familiar with:
 
 ### **Programming Languages**
